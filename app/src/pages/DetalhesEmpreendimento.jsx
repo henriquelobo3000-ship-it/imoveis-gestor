@@ -96,7 +96,7 @@ export default function DetalhesEmpreendimento() {
 
               <div className="flex justify-start md:justify-end">
                 <Link
-                  to="/LandingPageEmpreendimento"
+                  to="/modelos-de-landing-pages"
                   className="mt-6 bg-green-600 hover:bg-green-700 text-white px-4 py-3 rounded-lg block"
                 >
                   Gerar landing page
