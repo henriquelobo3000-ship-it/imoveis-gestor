@@ -17,8 +17,6 @@ A ideia é simular uma plataforma usada por **corretores(as)** e **gestores come
 ## 🛠️ Tecnologias utilizadas
 - [React](https://react.dev/)  
 - [Vite](https://vitejs.dev/)  
-- [React Query (TanStack)](https://tanstack.com/query/latest)  
-- [Axios](https://axios-http.com/)  
 - [json-server](https://github.com/typicode/json-server)  
 
 ---
